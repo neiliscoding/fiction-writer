@@ -1,17 +1,20 @@
-[
-  {
-    "chapter": 1,
-    "title": "The Call to Arms",
-    "summary": "Eryndor Thorne, a skilled warrior from a noble family, receives a plea for help from the kingdom of Eldrador, which is under threat of invasion by Kael Darkhaven. Arin the Bard, who has heard rumors of Eryndor's bravery, offers his services as an ally in helping to defend the kingdom."
-  },
-  {
-    "chapter": 2,
-    "title": "The Gathering Storm",
-    "summary": "As tensions rise between Eldrador and Kael Darkhaven's forces, Eryndor and Arin work together to gather allies and prepare for battle. Meanwhile, Kael's dark magic grows stronger, threatening to destroy the kingdom from within."
-  },
-  {
-    "chapter": 3,
-    "title": "The Final Stand",
-    "summary": "Eryndor and his allies launch a final assault against Kael Darkhaven's army, determined to protect Eldrador and its people. In a climactic battle, Eryndor faces off against Kael, and the fate of the kingdom hangs in the balance."
-  }
-]
+{
+  "title": "Shadows of Eldrador",
+  "outline": [
+    {
+      "chapter": 1,
+      "title": "The Weight of Legacy",
+      "summary": "Alexander Blackwood returns to his family's stronghold, Eldrador, after a decade away. He is greeted with both expectation and suspicion by the castle's inhabitants, who are wary of his intentions. Meanwhile, Eira Shadowglow arrives in town, seeking information about a mysterious prophecy that speaks of her return. Arin the Unyielding watches from the shadows, sensing an opportunity to redeem himself."
+    },
+    {
+      "chapter": 2,
+      "title": "The Web of Deceit",
+      "summary": "As Alexander navigates the treacherous landscape of Eldrador's politics, he is drawn into a web of intrigue and deception. Eira Shadowglow becomes embroiled in a local conflict between rival factions vying for control of the kingdom's magical resources. Arin the Unyielding reveals himself to Alexander, offering guidance and support in his quest for power. But can they trust each other?"
+    },
+    {
+      "chapter": 3,
+      "title": "The Shadows Within",
+      "summary": "As the forces of darkness gather outside Eldrador's walls, Alexander, Eira, and Arin must confront their own demons to save the kingdom. In a shocking revelation, Alexander discovers a dark secret about his family's past that threatens to destroy everything he holds dear. Can they overcome their internal struggles to protect Eldrador and its people?"
+    }
+  ]
+}

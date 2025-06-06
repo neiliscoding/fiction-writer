@@ -1,15 +1,6 @@
 {
   "name": "Eldrador",
   "type": "castle",
-  "physicalDescription": {
-    "location": "High on a craggy mountain",
-    "description": "Towers of gleaming silver stone rise high into the air, surrounded by battlements and a moat filled with glittering ice. The castle's walls are adorned with intricate carvings depicting scenes from ancient lore."
-  },
-  "culturalOrPoliticalSignificance": {
-    "importance": "Eldrador is the seat of power for the Dragonblood Dynasty",
-    "historicalEvents": [
-      "The Great Conquest",
-      "The Lost Heir"
-    ]
-  }
+  "physical_description": "A towering fortress built into the sides of a craggy mountain range, its walls forged from dark granite and its battlements shrouded in a perpetual mist.",
+  "cultural_or_political_significance": "The stronghold of the ancient Eldridian dynasty, said to hold the secrets of their long-lost magic and the source of their unparalleled mastery over the arcane arts."
 }

@@ -1,37 +1,45 @@
 {
   "characters": [
     {
-      "name": "Eryndor Thorne",
+      "name": "Alexander Blackwood",
       "role": "main",
-      "background": "A skilled warrior from a noble family, Eryndor was trained in combat from a young age.",
-      "personality": "Brave and confident, but also hot-headed and impulsive.",
-      "goal": "To protect his kingdom from an impending invasion and restore honor to his family.",
-      "relationship": {
-        "Eryndor's parents": "distant",
-        "Arin the Bard": "ally",
-        "Kael Darkhaven": "enemy"
+      "background": "Alexander was born into a wealthy family with a long history of power and influence. He has always felt the weight of his family's expectations on his shoulders.",
+      "personality": "Determined, ambitious, and fiercely loyal to those he cares about.",
+      "goal": "To protect his kingdom from threats both within and without.",
+      "relationship_to_others": {
+        "main_character": null,
+        "sub_characters": [
+          "Eira Shadowglow",
+          "Arin the Unyielding"
+        ]
       }
     },
     {
-      "name": "Arin the Bard",
+      "name": "Eira Shadowglow",
       "role": "sub",
-      "background": "A traveling bard who has heard rumors of a great hero in Eryndor Thorne, Arin seeks to join forces and help bring about a new era of peace.",
-      "personality": "Charismatic and quick-witted, but also somewhat flighty and self-centered.",
-      "goal": "To help Eryndor fulfill his destiny and earn recognition as the hero he believes him to be.",
-      "relationship": {
-        "Eryndor Thorne": "ally",
-        "Kael Darkhaven": "enemy"
+      "background": "Eira was once a member of an ancient order of warriors. She has been on her own for years, taking on various quests and missions to survive.",
+      "personality": "Resourceful, cunning, and fiercely independent.",
+      "goal": "To find a new purpose in life after leaving the Order.",
+      "relationship_to_others": {
+        "main_character": null,
+        "sub_characters": [
+          "Alexander Blackwood",
+          "Arin the Unyielding"
+        ]
       }
     },
     {
-      "name": "Kael Darkhaven",
+      "name": "Arin the Unyielding",
       "role": "sub",
-      "background": "A dark sorcerer who seeks power and revenge against the royal family, Kael has a personal vendetta against Eryndor Thorne.",
-      "personality": "Cold and calculating, but also ruthless and cunning.",
-      "goal": "To overthrow the kingdom and claim its power for himself.",
-      "relationship": {
-        "Eryndor Thorne": "enemy",
-        "Arin the Bard": "enemy"
+      "background": "Arin was once a renowned strategist and advisor to a kingdom. He has since gone into exile, seeking redemption for past mistakes.",
+      "personality": "Wise, analytical, and fiercely protective of those he cares about.",
+      "goal": "To make amends for past wrongs and find forgiveness.",
+      "relationship_to_others": {
+        "main_character": null,
+        "sub_characters": [
+          "Alexander Blackwood",
+          "Eira Shadowglow"
+        ]
       }
     }
   ]
