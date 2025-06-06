@@ -1,0 +1,38 @@
+{
+  "characters": [
+    {
+      "name": "Eryndor Thorne",
+      "role": "main",
+      "background": "A skilled warrior from a noble family, Eryndor was trained in combat from a young age.",
+      "personality": "Brave and confident, but also hot-headed and impulsive.",
+      "goal": "To protect his kingdom from an impending invasion and restore honor to his family.",
+      "relationship": {
+        "Eryndor's parents": "distant",
+        "Arin the Bard": "ally",
+        "Kael Darkhaven": "enemy"
+      }
+    },
+    {
+      "name": "Arin the Bard",
+      "role": "sub",
+      "background": "A traveling bard who has heard rumors of a great hero in Eryndor Thorne, Arin seeks to join forces and help bring about a new era of peace.",
+      "personality": "Charismatic and quick-witted, but also somewhat flighty and self-centered.",
+      "goal": "To help Eryndor fulfill his destiny and earn recognition as the hero he believes him to be.",
+      "relationship": {
+        "Eryndor Thorne": "ally",
+        "Kael Darkhaven": "enemy"
+      }
+    },
+    {
+      "name": "Kael Darkhaven",
+      "role": "sub",
+      "background": "A dark sorcerer who seeks power and revenge against the royal family, Kael has a personal vendetta against Eryndor Thorne.",
+      "personality": "Cold and calculating, but also ruthless and cunning.",
+      "goal": "To overthrow the kingdom and claim its power for himself.",
+      "relationship": {
+        "Eryndor Thorne": "enemy",
+        "Arin the Bard": "enemy"
+      }
+    }
+  ]
+}
